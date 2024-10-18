@@ -1,0 +1,30 @@
+body {
+    /*background-color: rgba(225,225,225,1);*/
+    background-color:#FFE5B4;
+
+
+}
+
+h1 {
+    color: midnightblue;
+    text-decoration: underline;
+    text-decoration-color: orangered;
+    font-family:"Corbel";
+    font-size:33px;
+    font-weight:bold;
+}
+
+p{
+    /*font-family: Helvetica, Arial, sans-serif;*/
+    font-family:"Segoe UI Normal", "Segoe UI", Segoe, Arial, sans-serif;
+    font-size:15px;
+}
+
+button{
+    color: black;
+    font-family: "Georgia", serif;
+    background-color: white;
+    width:70px;
+    height: 20px;
+    border-radius: 7px;
+}
