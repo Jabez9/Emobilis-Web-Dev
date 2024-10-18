@@ -21,9 +21,9 @@ p{
 }
 
 button{
-    color: black;
+    color: yellow;
     font-family: "Georgia", serif;
-    background-color: white;
+    background-color: blue;
     width:70px;
     height: 20px;
     border-radius: 7px;
